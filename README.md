@@ -16,7 +16,7 @@ I am a passionate **Full Stack Developer** from **VietNam** with overall 2+ year
 ![Ruby](https://img.shields.io/badge/ruby-306998?&logo=ruby&style=for-the-badge&logoColor=FFE873)
 ![JavaScript](https://img.shields.io/badge/javascript-323330?&style=for-the-badge&logo=javascript&logoColor=F0DB4F)
 ![CSS](https://img.shields.io/badge/css-ff722b?&style=for-the-badge&logo=css&logoColor=ffffff)
-![HTML](https://img.shields.io/badge/html-ff722b?&style=for-the-badge&logo=html&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/html5-ff722b?&style=for-the-badge&logo=html5&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/sql-0064a5?&style=for-the-badge&logo=postgresql&logoColor=ffffff)
 
 #### Frameworks & Libraries
