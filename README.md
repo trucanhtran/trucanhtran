@@ -21,9 +21,11 @@ I am a passionate **Full Stack Developer** from **VietNam** with overall 2+ year
 
 #### Frameworks & Libraries
 
-![Rails](https://img.shields.io/badge/node.js-3c873a?&style=for-the-badge&logo=node.js&logoColor=ffffff)
+![Rails](https://img.shields.io/badge/rails-3c873a?&style=for-the-badge&logo=rails&logoColor=ffffff)
 ![React](https://img.shields.io/badge/react-20232a?&style=for-the-badge&logo=react&logoColor=61dafb)
+![NodeJS](https://img.shields.io/badge/node.js-3c873a?&style=for-the-badge&logo=node.js&logoColor=ffffff)
 ![Express](https://img.shields.io/badge/express-222222?&style=for-the-badge&logo=express&logoColor=ffffff)
+![NextJS](https://img.shields.io/badge/nextjs-222222?&style=for-the-badge&logo=nextjs&logoColor=ffffff)
 ![Tailwind](https://img.shields.io/badge/tailwind-161d2d?&style=for-the-badge&logo=tailwindcss&logoColor=16becb)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-8713fa?&style=for-the-badge&logo=bootstrap&logoColor=ffffff)
 ![jQuery](https://img.shields.io/badge/jquery-333333?&style=for-the-badge&logo=jquery&logoColor=7ACEF4)
